@@ -5,7 +5,6 @@
 Welcome to the Adidas Sales Analysis project! This repository contains the datasets and Python code used to analyze Adidas sales data across the USA. The objective of this project is to derive actionable insights that could help in optimizing sales strategies and improving product distribution by analyzing various aspects of the sales data, including customer purchasing patterns, price sensitivity, and seasonal trends.
 
 ## Table of Contents
-- [Installation](#installation)
 - [Dataset Description](#dataset-description)
 - [Analysis Notebook](#analysis-notebook)
 - [Libraries Used](#libraries-used)
@@ -14,18 +13,6 @@ Welcome to the Adidas Sales Analysis project! This repository contains the datas
 - [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 
-## Installation
-To get started with this project, you need to have Python installed on your machine (Python 3.8+ recommended). Clone this repository using:
-
-```
-git clone https://github.com/your-github-username/adidas-sales-analysis.git
-```
-
-Navigate to the project directory and install the required Python libraries using:
-
-```
-pip install -r requirements.txt
-```
 
 ## Dataset Description
 The dataset includes detailed transaction records covering various metrics such as sales volume, revenue, product types, and geographic details across different regions of the USA. This data is instrumental in understanding the market penetration and consumer preferences specific to different areas.
