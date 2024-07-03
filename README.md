@@ -1,5 +1,5 @@
 
-## Project Insight: Strategic Analysis of Adidas Sales Data in the USA
+## Adidas Sales Data Analysis Project: Strategic Insights into USA Market Trends
 
 ## Project Overview
 Welcome to the Adidas Sales Analysis project! This repository contains the datasets and Python code used to analyze Adidas sales data across the USA. The objective of this project is to derive actionable insights that could help in optimizing sales strategies and improving product distribution by analyzing various aspects of the sales data, including customer purchasing patterns, price sensitivity, and seasonal trends.
