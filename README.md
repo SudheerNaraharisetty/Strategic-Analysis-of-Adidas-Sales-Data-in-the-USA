@@ -10,7 +10,6 @@ Welcome to the Adidas Sales Analysis project! This repository contains the datas
 - [Libraries Used](#libraries-used)
 - [Visualizations](#visualizations)
 - [Key Findings](#key-findings)
-- [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 
 
@@ -33,9 +32,6 @@ The repository includes a variety of visualizations that illustrate the insights
 ## Key Findings
 - The analysis highlights key areas such as the effectiveness of different sales methods across regions, the impact of price changes on sales volume, and seasonal variations in product sales.
 - Strategic recommendations are provided based on the analysis to enhance sales performance and customer engagement.
-
-## How to Contribute
-Contributions to this project are welcome! Please refer to the `CONTRIBUTING.md` file for more details on how to contribute.
 
 ## Contact
 For any additional questions or to discuss this project further, please reach out via [LinkedIn](https://www.linkedin.com/in/sudheernaraharisetty/).
