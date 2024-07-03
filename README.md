@@ -18,7 +18,7 @@ Welcome to the Adidas Sales Analysis project! This repository contains the datas
 The dataset includes detailed transaction records covering various metrics such as sales volume, revenue, product types, and geographic details across different regions of the USA. This data is instrumental in understanding the market penetration and consumer preferences specific to different areas.
 
 ## Analysis Notebook
-The Jupyter Notebook in this repository (`Adidas_Sales_Analysis.ipynb`) contains the complete code and documentation for the data analysis. It walks through the data cleaning process, exploratory data analysis, and each step of the detailed analysis focusing on specific business questions.
+The Jupyter Notebook in this repository (`Adidas_Sales_DataAnalysis.ipynb`) contains the complete code and documentation for the data analysis. It walks through the data cleaning process, exploratory data analysis, and each step of the detailed analysis focusing on specific business questions.
 
 ## Libraries Used
 The project utilizes several Python libraries:
